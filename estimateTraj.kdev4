@@ -1,0 +1,4 @@
+[Project]
+Name=estimateTraj
+Manager=KDevCMakeManager
+VersionControl=
