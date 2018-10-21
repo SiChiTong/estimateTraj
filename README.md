@@ -1,1 +1,3 @@
-# estimateTraj
+# RedBot 轨迹真值获取与SLAM轨迹精度评测系统
+
+#### 参考文件内说明
